@@ -108,7 +108,7 @@ img {
 
 .social-left a:hover img,
 .social-right a:hover img {
-    filter: brightness(0) saturate(100%) invert(86%) sepia(83%) saturate(624%) hue-rotate(1deg) brightness(104%) contrast(103%);
+    filter: brightness(0) saturate(100%) invert(12%) sepia(47%) saturate(1353%) hue-rotate(197deg) brightness(93%) contrast(95%);
 }
 
 .image-container {
@@ -141,7 +141,7 @@ img {
     display: block;
     position: absolute;
     left: 0;
-    top: -425px;
+    top: -375px;
 }
 
 .image-text {

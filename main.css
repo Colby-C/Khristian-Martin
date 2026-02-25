@@ -31,7 +31,7 @@
 }
 
 body {
-    background-color: #CE1126;
+    background-color: #b1102b;
     font-family: Piedmont;
     font-size: 30pt;
     overflow-x: hidden;
@@ -64,7 +64,7 @@ img {
     position: sticky;
     top: 0;
     z-index: 1000;
-    background-color: #CE1126;
+    background-color: #b1102b;
 }
 
 .logo {
@@ -78,7 +78,7 @@ img {
     display: flex;
     top: 0;
     z-index: 1001;
-    background-color: #CE1126;
+    background-color: #b1102b;
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
@@ -91,7 +91,7 @@ img {
 }
 
 .menu a:hover {
-    color: #FCD116;
+    color: #13284c;
 }
 
 .social-left,
@@ -158,13 +158,13 @@ img {
 }
 
 .image-text p {
-    color: #CE1126;
+    color: #b1102b;
 }
 
 .shop-section {
     display: flex;
     flex-direction: column;
-    background-color: #CE1126;
+    background-color: #b1102b;
     text-align: center;
     justify-content: space-evenly;
     color: black;
@@ -178,7 +178,7 @@ img {
 .contact-section {
     display: flex;
     flex-direction: column;
-    background-color: #CE1126;
+    background-color: #b1102b;
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -241,7 +241,7 @@ select {
 button {
     padding: 10px;
     color: white;
-    background-color: #FCD116;
+    background-color: #13284c;
     border: none;
     cursor: pointer;
     margin-top: 10px;
@@ -258,7 +258,7 @@ textarea {
 
 #shop-section,
 #contact-section {
-    background-color: #ce1126;
+    background-color: #b1102b;
     padding: 50px 20px;
     min-height: 100vh;
 }
